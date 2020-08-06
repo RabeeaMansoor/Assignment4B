@@ -7,6 +7,10 @@ TagManager:
   - flower_plant
   - nectar
   - boundary
+  - Pick Up
+  - palindrome
+  - fish
+  - parenthesis
   layers:
   - Default
   - TransparentFX
